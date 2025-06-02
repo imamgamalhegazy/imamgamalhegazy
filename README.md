@@ -1,7 +1,7 @@
 # 👋 Hey! Nice to see you.
 
 Welcome to my page!  
-I'm **Emam Gamal**, a Mechatronics Engineer  I am currently developing my programming skills with **C++** and diving into **Frontend Development** using **React**.
+I'm **Emam Gamal**, **a Mechatronics Engineer**.  I am currently developing my programming skills with **C++** and diving into **Frontend Development** using **React**.
 
 ---
 
